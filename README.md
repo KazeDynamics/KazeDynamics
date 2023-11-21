@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KazeDynamics
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning everything I can
-- 💞️ I’m looking to collaborate on creative projects involving front-end and e-commerce
 - 📫 How to reach me https://github.com/KazeDynamics
 
 <!---
